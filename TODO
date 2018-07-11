@@ -1,0 +1,27 @@
+TODO
+====
+- [ ] Get Dropbox icon (brands file)
+- [ ] Fix height issues
+- [ ] Strip unnecessary icons from sprite files
+- [ ] Remove old font and css 
+
+Needed Icons from solid.svg
+------------
+cog
+lock
+qrcode
+check
+pen
+minus-circle
+redo
+bars
+plus
+arrow-left
+info
+exchange-alt
+sync
+wrench
+comments
+globe-americas
+code
+times-circle
